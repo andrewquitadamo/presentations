@@ -1,11 +1,13 @@
 class: center, middle
 
-# Summary of "Genetics of single-cell protein abundance variation in large yeast populations"  
+# An Introduction to Git and GitHub
 
-Albert et al. 
+Andrew Quitadamo
 
 ---
 
 # Overview
 
----
+*   What is Git?
+
+--
