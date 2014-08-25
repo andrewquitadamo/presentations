@@ -38,7 +38,7 @@ Albert et al.
 
 --
 
-* They collected 10,000 cells from the high and low expression tails
+* They collected 10,000 cells from each the high and low expression tails
 
 --
 
@@ -72,7 +72,7 @@ Albert et al.
 ---
 #Results (cont.)
 
-* The cis-genetic regions came from the BY strain, so X-pQTLs found are distant ie trans
+* The cis-genetic regions came from the BY strain, so X-pQTLs found are distant i.e. trans
 
 --
 
@@ -97,7 +97,7 @@ Albert et al.
 
 --
 
-* X-pQTLs without eQTL did agree with overall allelic effect direction 2/3 of the time
+* 2/3 of the time X-pQTLs without eQTL agreed with the overall allelic effect direction 
 
 --
 
