@@ -3,6 +3,9 @@ gfm: true
 class: center, middle
 
 # 1000 Genomes SV eQTL Analysis Update
+
+Andrew Quitadamo
+9/5/2014
 ---
 
 #SV Data
