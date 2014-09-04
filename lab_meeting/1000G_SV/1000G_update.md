@@ -7,7 +7,11 @@ class: center, middle
 
 #SV Data
 
-*67117 SVs in initial file
+* 2535 individuals
+
+--
+
+* 67117 SVs in initial file
 
 --
 
@@ -21,16 +25,15 @@ class: center, middle
 |INV		|858|
 |LINE 	|	2910|
 
---
-
-2535 samples in total
 
 ---
 
 #Expression Data
 
 * GEUVADIS Study
+
 --
+
 * RNASeq of 465 individuals from the CEPH (CEU), Finns (FIN), British (GBR), Toscani (TSI) and Yoruba (YRI) populations
 
 --
@@ -72,7 +75,9 @@ class: center, middle
 --
 
 * 998 unique SVs
+
 --
+
 * 1162 unique genes
 
 --
