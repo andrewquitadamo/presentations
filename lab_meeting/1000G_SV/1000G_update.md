@@ -2,12 +2,12 @@ gfm: true
 
 class: center, middle
 
-# Update on 1000 Genomes SV eQTL Analysis 
+# 1000 Genomes SV eQTL Analysis Update
 ---
 
 #SV Data
 
-67117 SVs in initial file
+*67117 SVs in initial file
 
 --
 
@@ -30,7 +30,7 @@ class: center, middle
 #Expression Data
 
 * GEUVADIS Study
-
+--
 * RNASeq of 465 individuals from the CEPH (CEU), Finns (FIN), British (GBR), Toscani (TSI) and Yoruba (YRI) populations
 
 --
@@ -72,7 +72,7 @@ class: center, middle
 --
 
 * 998 unique SVs
-
+--
 * 1162 unique genes
 
 --
@@ -99,6 +99,8 @@ PRAMEL|16
 HLA-DQA1|16
 HLA-DQB1|15
 HLA-DQA1|15
+
+--
 
 * Will have to map to gene name and redo frequency
 
