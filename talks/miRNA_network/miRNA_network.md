@@ -67,7 +67,7 @@ Andrew Quitadamo
  
 --
 
-* From MtLasso2G we added 9 miRNA correlations and 18 gene corelations
+* From MtLasso2G we added 9 miRNA correlations and 18 gene correlations
 
 --
 
