@@ -74,7 +74,7 @@ background-image: url('logo.jpg')
 
 # Thinking with Networks
 
-* Our approach combines three different types of biological networks: miRNA-gene targets, protein-protein interactions, and gene correlation networks
+* Our approach combines three different types of biological networks: miRNA-gene targets, protein-protein interactions, and gene co-expression networks
 
 --
 
