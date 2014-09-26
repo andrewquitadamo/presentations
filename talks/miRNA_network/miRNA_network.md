@@ -74,8 +74,6 @@ Andrew Quitadamo
 * By combining the networks to create an integrate network, we hope to generate a more inclusive view of the biology of ovarian cancer
 
 ---
-
----
 # Workflow
 
 <center><img src = "miRNA_int_net_workflow_crop.jpg" style="width: 50%; height: 50%"/><center/>
