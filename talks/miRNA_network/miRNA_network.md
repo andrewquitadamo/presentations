@@ -127,6 +127,14 @@ Andrew Quitadamo
 
 * There were 14 cancer associated miRNAs, 12 related to ovarian cancer
 
+--
+
+* *ESR1* has been indicated as a predictor of ovarian cancer survival
+
+--
+
+* Increased hsa-miR-200c expression has been associated with increased survival, decreased relapse, and increased sensitivity to paclitaxel
+
 ---
 
 # Future Work
