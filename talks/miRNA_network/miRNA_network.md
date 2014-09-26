@@ -47,6 +47,35 @@ Andrew Quitadamo
 
 ---
 
+#eQTL Analysis
+
+* Expression quantitative trait loci analysis measures how gene expression is affected by genetic loci.
+
+--
+
+* In this case we looked at miRNA expression effection mRNA expression
+
+--
+
+* We used Matrix eQTL, an R package, to perform the analysis
+
+---
+
+# Thinking with Networks
+
+* Our approach combines three different types of biological networks: miRNA-gene targets, protein-protein interactions, and gene correlation networks
+
+--
+
+* Each network incorporates information about different biological mechanisms
+
+--
+
+* By combining the networks to create an integrate network, we hope to generate a more inclusive view of the biology of ovarian cancer
+
+---
+
+---
 # Workflow
 
 <center><img src = "miRNA_int_net_workflow_crop.jpg" style="width: 50%; height: 50%"/><center/>
