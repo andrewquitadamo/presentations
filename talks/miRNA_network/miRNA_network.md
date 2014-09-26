@@ -5,18 +5,22 @@ class: center, middle
 Andrew Quitadamo
 
 ---
+background-image: url('logo.jpg')
 
 #Overview
 
-* We created an integrated gene and miRNA network in ovarian cancer
+* We created an integrated gene and miRNA network using ovarian cancer data from The Cancer Genome Atlas
 
 --
 
-* We created an initial network using miRNA eQTLs, and expanded it using miRNA targets and protein-protein interactions
+* We expanded an initial network of miRNA eQTLs by including miRNA targets and protein-protein interactions
 
 --
 
-* Extends earlier work in miRNA eQTLs
+* Extends earlier work in miRNA eQTLs [1]
+
+#####[1] Quitadamo A, Lin F, Tian L, Shi X. "A microRNA-Gene Network in Ovarian Cancer from Genome-Wide QTL Analysis”. Bioinformatics Research and Applications: 10th International Symposium, ISBRA 2014, Zhangjiajie, China, June 28-30, 2014: Proceedings 8492 388 2014. Springer.
+
 ---
 
 #Ovarian Cancer
@@ -49,7 +53,7 @@ Andrew Quitadamo
 
 #eQTL Analysis
 
-* Expression quantitative trait loci analysis measures how gene expression is affected by genetic loci.
+* Expression quantitative trait loci analysis measures how gene expression is affected by genetic loci
 
 --
 
@@ -57,8 +61,15 @@ Andrew Quitadamo
 
 --
 
-* We used Matrix eQTL, an R package, to perform the analysis
+* We used Matrix eQTL, an R package, to perform the analysis [2]
 
+--
+
+* We also used MtLasso2G, which uses a graph based lasso method, to perform a second parallel eQTL analysis [3]
+
+  
+#####[2] Shabalin A.A: Matrix eQTL: Ultra fast eQTL analysis via large matrix operations. Bioinformatics 28 no. 10 (2012): 1353-1358.  
+#####[3] Chen X, Shi X, Xu X, Wang Z, Mills RE, Lee C, and Xu J: A Two-Graph Guided Multi-task Lasso Approach for eQTL Mapping. Journal of Machine Learning Research (JMLR) W&CP 22:208-217. 
 ---
 
 # Thinking with Networks
@@ -76,7 +87,7 @@ Andrew Quitadamo
 ---
 # Workflow
 
-<center><img src = "miRNA_int_net_workflow_crop.jpg" style="width: 50%; height: 50%"/><center/>
+<center><img src = "miRNA_int_net_workflow_crop.jpg" style="width: 42%; height: 42%"/><center/>
 
 ---
 
@@ -86,7 +97,7 @@ Andrew Quitadamo
 
 --
 
-* 310 miRNA targets from TarBase, 244 could be used as DAPPLE inputs
+* 310 miRNA targets from TarBase [4], 244 could be used as DAPPLE [5] inputs
 
 --
 
@@ -94,7 +105,7 @@ Andrew Quitadamo
  
 --
 
-* From MtLasso2G we added 9 miRNA correlations and 18 gene correlations
+* From MtLasso2G we added 9 correlated miRNAs and 18 correlated genes
 
 --
 
@@ -104,6 +115,11 @@ Andrew Quitadamo
 
 * Final network has 167 nodes and 277 edges
 
+--
+
+#####[4] Papadopoulos GL, Reczko M, Simossis VA, Sethupathy P, Hatzigeorgiou AG: The database of experimentally supported targets: a functional update of TarBase. Nucleic Acids Res 2009, 37 (Database issue):D155-8.
+
+#####[5] Rossin EJ, Lage K, Raychaudhuri S, Xavier RJ, Tartar D, IIBDGC, Cotsapas C, Daly MJ: Proteins Encoded in Genomic Regions Associated with Immune-Mediated Disease Physically Interact and Suggest Underlying Biology. PLoS Genetics 2011, (1): e1001273
 ---
 
 #Final Network
@@ -137,10 +153,30 @@ Andrew Quitadamo
 
 ---
 
-# Future Work
+## Future Work
 
 * Add more networks such as gene regulatory networks
 
 --
 
 * Look at up and down regulatory effects in the network
+
+--
+
+## Acknowlegements
+
+Shi Lab
+
+- Dr. Xinghua Shi
+
+- Benika Hall
+
+- Lu Tian
+
+- Dahlia Shvets
+
+- Dahlia Shvets
+
+- Heena Desai
+
+- Shel Burkes
