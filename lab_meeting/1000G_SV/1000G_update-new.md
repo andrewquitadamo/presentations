@@ -85,8 +85,20 @@ expr_norm_pc$rotation[,1]
 
 #Permutation Analysis (cont.)
 
-* Still too many results, currently running 10,000 permutations
+* Still too many results, ran 10,000 permutations
 
 --
 
 * *trans-* results are ~1.5 TB
+
+--
+
+* 1,529,937 had less than 100 permuted cases (p-value 0.01)
+
+--
+
+* 3,517 had less than 10 permuted cases (p-value 0.001)
+
+--
+
+* 240 had no permuted cases (p-value 0.0001)
