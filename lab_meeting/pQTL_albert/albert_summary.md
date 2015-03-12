@@ -3,6 +3,7 @@ class: center, middle
 # Summary of "Genetics of single-cell protein abundance variation in large yeast populations"
 
 Albert et al.
+Andrew Quitadamo
 
 ---
 
@@ -133,4 +134,3 @@ Albert et al.
 
 * Hotspots contained genes like HAP1 and HAP4, which are activators of other genes
 
- 
