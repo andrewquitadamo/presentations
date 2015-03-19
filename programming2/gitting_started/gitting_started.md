@@ -465,3 +465,7 @@ name: Resources
 *  [Github Flow](https://guides.github.com/introduction/flow/index.html)
 
 *  [Github Guides](https://guides.github.com/)
+
+*  [Git Screwup Solutions](http://41j.com/blog/2015/02/common-git-screwupsquestions-solutions/)
+
+*  [Git Flight Rules](https://github.com/k88hudson/git-flight-rules)
