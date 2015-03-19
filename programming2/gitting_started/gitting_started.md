@@ -68,6 +68,9 @@ Programming II
 
 *  It adds functionality like forking, and pull requests which contribute to a collaborative model  
 
+--
+
+*  You can sign up for a Github account [here](https://github.com/)
 ---
 
 # Creating a new git repository
@@ -93,6 +96,18 @@ Programming II
 # Creating a new git repository (cont.)
 
 <img src = "github_new_repo_page.png" style="width: 100%; height: 100%"/>
+
+---
+
+# Forking a repository
+
+* Forking allows you to take someone else's repository and make it your own.
+
+--
+
+* Go to https://github.com/andrewquitadamo/git_demo
+
+<img src = "github_repo_page.png" style="width: 100%; height: 100%"/>
 
 ---
 
@@ -196,6 +211,16 @@ Programming II
     ```
 ---
 
+# Committing for the first time
+
+* The first time you commit to git it may ask you to set your name and email. Don't panic.
+
+    ```
+    git config --global user.name "Andrew Quitadamo"
+    git config --global user.email aquitada@uncc.edu"
+    ```
+---
+
 # Pushing Changes to Github
 
 * To put the changes you've made onto Github use the push command
@@ -220,15 +245,11 @@ Programming II
 
 --
 
-* If you don't want to type in your username everytime you can set it with the git config command.
-    ```
-    git config --global user.name "Andrew Quitadamo"
-    git config --global user.email aquitada@uncc.edu"
-    ```
+* If you don't want to type in your password everytime you can set up a [SSH key](https://help.github.com/articles/generating-ssh-keys/).
 
 --
 
-* If you don't want to type in your password everytime you can set up a [SSH key](https://help.github.com/articles/generating-ssh-keys/).
+* If you want to push to Github from one of the Viper or Cobra, you will need to set up a SSH key.
 ---
 
 # Editing on Github
@@ -239,6 +260,8 @@ Programming II
 
 * You can only do this to repos that you have access to.
 --
+
+* Open up your personal git_demo repository on Github, and add a new name to it.
 
 <img src = "github_edit_file.png" style="width: 100%; height: 100%"/>
 
@@ -367,7 +390,7 @@ There are a few different ways that you can use Github to aid in collaboration
 
 --
 
-1) A shared repository where everyone has access, and commits to the master branch. This is what we've been doing with the shilab organization.
+1) A shared repository where everyone has access, and commits to the master branch. This is what we've been doing in our lab.
 
 --
 
@@ -378,21 +401,22 @@ There are a few different ways that you can use Github to aid in collaboration
 3) Repositories are forked to an individuals account, commits are made, and pull requests are used to add new features.
 
 ---
-# Forking a Repo
-
-<img src = "github_repo_page.png" style="width: 100%; height: 100%"/>
-
----
 
 # Pull Requests
 
-#Collaborating on Github - Creating Pull Requests
+* Pull requests are how you can merge changes together, either from different branches, or from different repositories.
 
 ![Default Aligned Image](https://github-images.s3.amazonaws.com/help/pull_requests/pull-request-start-review-button.png)
 
 --
 
 ![Default Aligned Image](https://github-images.s3.amazonaws.com/help/pull_requests/pull-request-click-to-create.png)
+
+---
+
+# Pull Request Practice
+
+* Go to your git_demo repository on Github, and issue a pull request back to my original repo.
 
 ---
 
