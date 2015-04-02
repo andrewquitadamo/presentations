@@ -73,7 +73,6 @@ ipython notebook
 
 * You can use cut to access columns of data
 
-
     ```
     cut -f 2 data.txt
     ```
@@ -124,7 +123,7 @@ ipython notebook
 
 # >
 
-* > redirects the output from stdout to the file that you specify
+* '>' redirects the output from stdout to the file that you specify
 
     ```
     sort data.txt > data.sorted
