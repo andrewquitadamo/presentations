@@ -227,3 +227,59 @@ ipython notebook
     ```
 ---
 
+# awk
+
+* Like cut, awk is also used for manipulating columnar data, but it is much more powerful.
+
+--
+
+* You can print out the number of fields in each line
+
+    ```
+    awk '{print NF}' data.txt
+    ```
+
+--
+
+* Like cut you can print out specific columns
+    ```
+    awk '{print $2} data.txt
+    ```
+
+--
+
+* You can use conditional statements with awk
+
+    ```
+    awk '$1==5 {print}' data.txt
+    ```
+
+    ```
+    awk '$1>5 && $2=="chr3" {print}' data.txt
+    ```
+--
+
+* You can combine conditionals with column printing
+    
+    ```
+    awk '$1>5 {print $2}'
+    ```
+
+---
+
+# join
+
+* join acts like join in a database. Like uniq files should be in sorted order, don't worry if you forget, join should notify you.
+
+    ```
+    join file1.txt file2.txt
+    ```
+
+--
+
+* You can specify which columns to join on.
+
+    ```
+    join -1 1 -2 3 file1.txt file2.txt
+    ```
+
