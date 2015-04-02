@@ -23,7 +23,7 @@ Programming II
 
 # Version 3.0.0
 
-* IPython Notebooks aren't just for Python. Version 3.0.0 makes using the different kernals easier. 
+* IPython Notebooks aren't just for Python anymore. While earlier versions did have the ability to use different kernals, Version 3.0.0 makes using them alot easier. 
 
 --
 
@@ -33,11 +33,19 @@ Programming II
 
 # NBViewer
 
-* Website to display and share IPython Notebooks with others
+* Provides a place to display and share IPython Notebooks with others
 
 --
 
 * [Paper in Nature Genetics](https://github.com/theandygross/TCGA/tree/master/Analysis_Notebooks#guide-to-running)
+
+--
+
+* IPython Notebooks and NBViewer can be used to help create reproducible research.
+
+--
+
+* Plus its really cool.
 
 ---
 
