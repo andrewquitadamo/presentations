@@ -90,7 +90,7 @@ ipython notebook
 * You can specify the deliminator
 
     ```
-    cut -d';' -f 2 data.txt
+    cut -d';' -f 2 data_semi.txt
     ```
 
 ---
@@ -108,7 +108,7 @@ ipython notebook
 * You can specify which column to sort on using the -k flag
 
     ```
-    sort -k 2,2 data.txt
+    sort -k 3,3 data.txt
     ```
 
 --
@@ -175,7 +175,7 @@ ipython notebook
 * grep is used for searching files
 
     ```
-    grep searchterm data.txt
+    grep DUP_gs_CNV_17_44341412_44366497 data.txt
     ```
 
 --
@@ -183,7 +183,7 @@ ipython notebook
 * You can also use regular expressions with grep
 
     ```
-    grep '^start' data.txt
+    grep '^DUP.*944$' data.txt
     ```
 
 --
@@ -191,7 +191,7 @@ ipython notebook
 * You can also use grep to count occurances of the search term.
 
     ```
-    grep -c searchterm data.txt
+    grep -c DUP_gs_CNV_17_44341412_44366497 data.txt
     ```
 
 ---
@@ -251,7 +251,7 @@ ipython notebook
 
 * Like cut you can print out specific columns
     ```
-    awk '{print $2} data.txt
+    awk '{print $2} miRNA_count
     ```
 
 --
@@ -259,18 +259,18 @@ ipython notebook
 * You can use conditional statements with awk
 
     ```
-    awk '$1==5 {print}' data.txt
+    awk '$1==5 {print}' miRNA_count
     ```
 
     ```
-    awk '$1>5 && $2=="chr3" {print}' data.txt
+    awk '$1>5 && $2=="chr3" {print}' miRNA_count
     ```
 --
 
 * You can combine conditionals with column printing
     
     ```
-    awk '$1>5 {print $2}'
+    awk '$1>5 {print $2}' miRNA_count
     ```
 
 ---
