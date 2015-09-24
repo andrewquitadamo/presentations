@@ -3,7 +3,7 @@ class: center, middle
 # Gitting Started With Version Control
 
 Andrew Quitadamo  
-Programming II
+Programming I
 
 ---
 
@@ -108,7 +108,7 @@ Programming II
 
 --
 
-* Go to https://github.com/andrewquitadamo/git_demo
+* Go to https://github.com/andrewquitadamo/git_demo2015
 
 <img src = "github_repo_page.png" style="width: 100%; height: 100%"/>
 
@@ -119,7 +119,7 @@ Programming II
 * To download a repo from Github onto your local computer use git clone.
 
     ```
-    git clone https://github.com/andrewquitadamo/git_demo.git
+    git clone https://github.com/andrewquitadamo/git_demo2015.git
     ```
 --
 
@@ -129,7 +129,7 @@ Programming II
 
 # Tracking changes
 
-* First let's make some changes to the file in the git_demo repo. Open up your favorite text editor and add your name.
+* First let's make some changes to the file in the git_demo2015 repo. Open up your favorite text editor and add your name.
 
 --
 * You can check the files in your repo by typing:
@@ -266,7 +266,7 @@ Programming II
 
 --
 
-* Open up your personal git_demo repository on Github, and add a new name to it.
+* Open up your personal git_demo2015 repository on Github, and add a new name to it.
 
 <img src = "github_edit_file.png" style="width: 100%; height: 100%"/>
 
@@ -421,7 +421,7 @@ There are a few different ways that you can use Github to aid in collaboration
 
 # Pull Request Practice
 
-* Go to your git_demo repository on Github, and issue a pull request back to my original repo.
+* Go to your git_demo2015 repository on Github, and issue a pull request back to my original repo.
 
 ---
 
