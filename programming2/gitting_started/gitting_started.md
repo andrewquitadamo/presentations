@@ -121,6 +121,8 @@ Programming I
     ```
     git clone https://github.com/andrewquitadamo/git_demo2015.git
     ```
+    
+    ####Warning: Replace my username with your username, otherwise things later on won't work.
 --
 
 * This will create a new folder with the repo's name in your current directory.
