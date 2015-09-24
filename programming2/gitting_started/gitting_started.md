@@ -17,7 +17,8 @@ Programming II
 
 --
 
-*   Using Git and Github
+*   Using Git and Github  
+
 ---
 
 # What is Git?
