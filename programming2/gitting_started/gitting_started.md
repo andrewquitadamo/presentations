@@ -39,7 +39,8 @@ Programming II
 
 --
 
-* This means you can use git anywhere, even if you don't have internet access
+* This means you can use git anywhere, even if you don't have internet access  
+
 ---
 
 # Why Should I Care?
@@ -71,7 +72,8 @@ Programming II
 
 --
 
-*  You can sign up for a Github account [here](https://github.com/)
+*  You can sign up for a Github account [here](https://github.com/)  
+
 ---
 
 # Creating a new git repository
@@ -250,7 +252,8 @@ Programming II
 
 --
 
-* If you want to push to Github from one of the Viper or Cobra, you will need to set up a SSH key.
+* If you want to push to Github from one of the Viper or Cobra, you will need to set up a SSH key.  
+
 ---
 
 # Editing on Github
@@ -259,7 +262,8 @@ Programming II
 
 --
 
-* You can only do this to repos that you have access to.
+* You can only do this to repos that you have access to.  
+
 --
 
 * Open up your personal git_demo repository on Github, and add a new name to it.
