@@ -211,7 +211,8 @@ Programming I
 * You can also use the -m flag to add a commit message in the command line without opening an editor.
     ```
     git commit -m'Added Richard Feynman'
-    ```
+    ```  
+    
 ---
 
 # Committing for the first time
@@ -355,8 +356,10 @@ Programming I
 
 # Checking the History (cont.)
 
-<img src = "github_commits.png" style="width: 100%; height: 100%"/>
+<img src = "github_commits.png" style="width: 100%; height: 100%"/>  
+
 ---
+
 # Branches
 
 * Branches are a way of separate and isolate changes. This allows multiple people to work on different features or ideas on the same codebase without them messing each other's code up.
