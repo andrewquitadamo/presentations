@@ -474,6 +474,10 @@ There are a few different ways that you can use Github to aid in collaboration
 
 ---
 
+#Closing Issues
+
+<img src = "close_issue.png" style="width: 100%; height: 100%"/>
+
 name: Resources
 
 # Resources
