@@ -456,6 +456,24 @@ There are a few different ways that you can use Github to aid in collaboration
 
 ---
 
+#Issues
+
+<img src = "issues.png" style="width: 100%; height: 100%"/>
+
+---
+
+#New Issues
+
+<img src = "new_issue.png" style="width: 100%; height: 100%"/>
+
+---
+
+#Issue Labels
+
+<img src = "labels.png" style="width: 100%; height: 100%"/>
+
+---
+
 name: Resources
 
 # Resources
