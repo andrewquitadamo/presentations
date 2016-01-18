@@ -108,7 +108,7 @@ Programming I
 
 --
 
-* Go to https://github.com/andrewquitadamo/git_demo2015
+* Go to https://github.com/andrewquitadamo/git-demo2016-spring
 
 <img src = "github_repo_page.png" style="width: 100%; height: 100%"/>
 
@@ -119,7 +119,7 @@ Programming I
 * To download a repo from Github onto your local computer use git clone.
 
     ```
-    git clone https://github.com/andrewquitadamo/git_demo2015.git
+    git clone https://github.com/andrewquitadamo/git-demo2016-spring.git
     ```
     
     ####Replace my username with your username, otherwise things later on won't work.
@@ -131,7 +131,7 @@ Programming I
 
 # Tracking changes
 
-* First let's make some changes to the file in the git_demo2015 repo. Open up your favorite text editor and add your name.
+* First let's make some changes to the file in the git-demo2016-spring repo. Open up your favorite text editor and add your name.
 
 --
 * You can check the files in your repo by typing:
@@ -426,7 +426,7 @@ There are a few different ways that you can use Github to aid in collaboration
 
 # Pull Request Practice
 
-* Go to your git_demo2015 repository on Github, and issue a pull request back to my original repo.
+* Go to your git-demo2016-spring repository on Github, and issue a pull request back to my original repo.
 
 ---
 
