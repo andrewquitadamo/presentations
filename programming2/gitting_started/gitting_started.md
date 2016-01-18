@@ -3,7 +3,7 @@ class: center, middle
 # Gitting Started With Version Control
 
 Andrew Quitadamo  
-Programming I
+Programming II
 
 ---
 
@@ -449,6 +449,10 @@ There are a few different ways that you can use Github to aid in collaboration
 --
 
 *  [Github pages](https://pages.github.com/)
+
+--
+
+* [GitHub organizations](https://github.com/shilab)
 
 --
 
