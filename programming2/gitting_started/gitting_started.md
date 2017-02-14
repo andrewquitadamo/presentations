@@ -129,6 +129,16 @@ Programming II
 
 ---
 
+# Committing for the first time
+
+* The first time you commit to git it may ask you to set your name and email. Don't panic.
+
+    ```
+    git config --global user.name "Andrew Quitadamo"
+    git config --global user.email aquitada@uncc.edu"
+    ```
+---
+
 # Tracking changes
 
 * First let's make some changes to the file in the git-demo2017-spring repo. Open up your favorite text editor and add your name.
@@ -215,16 +225,6 @@ Programming II
     git commit -m'Added Richard Feynman'
     ```  
     
----
-
-# Committing for the first time
-
-* The first time you commit to git it may ask you to set your name and email. Don't panic.
-
-    ```
-    git config --global user.name "Andrew Quitadamo"
-    git config --global user.email aquitada@uncc.edu"
-    ```
 ---
 
 # Pushing Changes to Github
