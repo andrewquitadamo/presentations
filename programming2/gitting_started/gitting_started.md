@@ -108,7 +108,7 @@ Programming II
 
 --
 
-* Go to https://github.com/andrewquitadamo/git-demo2017-spring
+* Go to https://github.com/andrewquitadamo/git-demo2017-fall
 
 <img src = "github_repo_page.png" style="width: 100%; height: 100%"/>
 
@@ -119,7 +119,7 @@ Programming II
 * To download a repo from Github onto your local computer use git clone.
 
     ```
-    git clone https://github.com/andrewquitadamo/git-demo2017-spring.git
+    git clone https://github.com/andrewquitadamo/git-demo2017-fall.git
     ```
     
     ####Replace my username with your username, otherwise things later on won't work.
@@ -141,7 +141,7 @@ Programming II
 
 # Tracking changes
 
-* First let's make some changes to the file in the git-demo2017-spring repo. Open up your favorite text editor and add your name.
+* First let's make some changes to the file in the git-demo2017-fall repo. Open up your favorite text editor and add your name.
 
 --
 * You can check the files in your repo by typing:
@@ -255,7 +255,7 @@ Programming II
 
 --
 
-* If you want to push to Github from one of the Viper or Cobra, you will need to set up a SSH key.  
+* If you want to push to Github from one of the clusters, you will need to set up a SSH key.  
 
 ---
 
@@ -269,7 +269,7 @@ Programming II
 
 --
 
-* Open up your personal git_demo2015 repository on Github, and add a new name to it.
+* Open up your personal git_demo2017 repository on Github, and add a new name to it.
 
 <img src = "github_edit_file.png" style="width: 100%; height: 100%"/>
 
@@ -426,7 +426,7 @@ There are a few different ways that you can use Github to aid in collaboration
 
 # Pull Request Practice
 
-* Go to your git-demo2017-spring repository on Github, and issue a pull request back to my original repo.
+* Go to your git-demo2017-fall repository on Github, and issue a pull request back to my original repo.
 
 ---
 
