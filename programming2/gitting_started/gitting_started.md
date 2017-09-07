@@ -205,7 +205,7 @@ Programming I
     git commit
     ```
     
-    * Don't ```commit``` yet unless you know how to exit vim *
+    ####Don't ```commit``` yet unless you know how to exit vim
 
 ---
 
