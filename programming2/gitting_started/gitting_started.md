@@ -3,7 +3,7 @@ class: center, middle
 # Gitting Started With Version Control
 
 Andrew Quitadamo  
-Programming II
+Programming I
 
 ---
 
@@ -204,6 +204,8 @@ Programming II
     ```
     git commit
     ```
+    
+    * Don't ```commit``` yet unless you know how to exit vim *
 
 ---
 
